@@ -40,6 +40,3 @@
 ### 📫 Contato
 - 💼 [LinkedIn](https://www.linkedin.com/in/allisson-camargo/)
 
----
-
-<p align="center">Feito com ❤️ por Allisson Camargo</p>
