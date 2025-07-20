@@ -38,9 +38,7 @@
 ---
 
 ### 📫 Contato
-
-- 📧 Email: allisson.camargo.dev@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/allissoncamargo)
+- 💼 [LinkedIn](https://www.linkedin.com/in/allisson-camargo/)
 
 ---
 
