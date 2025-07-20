@@ -11,7 +11,6 @@
 - 🎓 Estudante de **Redes de Computadores**, migrando para **Desenvolvimento de Software**
 - 🧪 Bolsista de Iniciação Científica com foco em **Visão Computacional e Deep Learning**
 - 💻 Trabalhando com **Java**, **Python**, **CNNs**, **Mediapipe**, **TensorFlow/Keras**
-- 📚 Estudando **Álgebra Linear**, **Cálculo** e **Probabilidade** aplicados à IA
 - 🌐 Interesse em **Back-End com Spring Boot**, **sistemas inteligentes** e **aplicações web**
 
 ---
