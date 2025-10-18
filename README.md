@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Allisson Camargo</h1>
+<h1 align="center">Olá! Eu sou o Allisson Camargo</h1>
 
 <p align="center">
   🚀 Desenvolvedor em formação | 🧠 Entusiasta de IA e redes neurais | 💡 Criador de soluções com impacto real
